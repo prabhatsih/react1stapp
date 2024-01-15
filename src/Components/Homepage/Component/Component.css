@@ -1,0 +1,23 @@
+.comp{
+    position: relative;
+    top: -5px;
+}
+.comp .container{
+    position: relative;
+    top : -90px;
+}
+.comp .icon-box{
+    color:#61DAFB;
+    font-size: 70px;
+    border-radius:50%;
+    padding: 20px 30px;
+    background: #fefefe;
+    transition: 0.5s linear;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 1.5px 0.1px #7d7c7c;
+}
+.comp .icon-box:hover{
+    color: #ececec;
+    background:#61DAFB;
+    transition: 0.5s linear;
+}
